@@ -1,6 +1,17 @@
-<p class="codepen" data-height="300" data-pen-title="Hex Strategy Dark" data-version="2" data-default-tab="html,result" data-slug-hash="vEyRKjr" data-user="aark" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Games Showcase</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<p class="codepen" data-height="300" data-pen-title="Hex Strategy Dark" data-version="2" data-default-tab="result" data-slug-hash="vEyRKjr" data-user="aark" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/editor/aark/pen/019e893d-8318-78e2-977f-862512de06ad">
   Hex Strategy Dark</a> by aark (<a href="https://codepen.io/aark">@aark</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://public.codepenassets.com/embed/index.js"></script>
+</body>
+</html>
